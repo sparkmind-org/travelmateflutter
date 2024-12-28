@@ -1,0 +1,52 @@
+{
+  "travel-requests": [
+    {
+      "id": "2b4a9995-0302-4a04-b56a-45a4130e0c55",
+      "travelSpec": "none",
+      "name": "pratham",
+      "source": "india",
+      "destination": "japan",
+      "airline": "none",
+      "flightNumber": "SD2342",
+      "flightType": "Direct",
+      "connectingCity": "",
+      "date": "2024-12-31",
+      "time": "6:30 AM",
+      "travelers": [
+        {
+          "name": "balu",
+          "gender": "Male",
+          "passport": "none",
+          "visa": "none"
+        }
+      ]
+    },
+    {
+      "id": "3bf73972-df25-41c4-8484-8aa104411ba2",
+      "travelSpec": "ADD Journey",
+      "name": "balu",
+      "source": "india",
+      "destination": "korea",
+      "airline": "Indigo",
+      "flightNumber": "IN23234",
+      "flightType": "Connecting",
+      "connectingCity": "korea",
+      "date": "2025-01-21",
+      "time": "7:35 AM",
+      "travelers": [
+        {
+          "name": "balue",
+          "gender": "Male",
+          "passport": "llksj",
+          "visa": "nof"
+        },
+        {
+          "name": "slf",
+          "gender": "Female",
+          "passport": "slkjf",
+          "visa": "lksjdf"
+        }
+      ]
+    }
+  ]
+}
